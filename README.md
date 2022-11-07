@@ -1,8 +1,7 @@
 RPG La Pandémie
 
-
     Pour la réalisation de ce RPG textuel, je me suis inspirée de la crise du COVID. Vous trouverez des pangolins et des bactéries qui feront office de monstres ainsi que des vaccins qui feront office de potions magiques (remède médicinal).
-
+    
     Le jeu s'articule autour d'une histoire où il est possible de faire des choix en cliquant sur les différents choix possibles. On peut, au maximum en retrouver 4.
 
     Au démarrage du jeu, vous êtes par défaut un médecin avec un nombre d'HP spécifique ainsi qu'une arme spécifique. Mais vous pouvez faire le choix de rentrer dans le jeu sous une autre identité : un malade avec comme arme un mouchoir ou bien un citoyen avec comme arme un couteau.
